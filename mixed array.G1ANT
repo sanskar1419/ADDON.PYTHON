@@ -1,0 +1,9 @@
+addon python version 4.1.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+program python
+♥list = Adam❚Eva❚John❚Mary
+♥list⟦⟧ = 200
+keyboard ♥list⋘SPACE⋙
+♥test = ♥list⟦5⟧-10
+keyboard ♥test⋘SPACE⋙
